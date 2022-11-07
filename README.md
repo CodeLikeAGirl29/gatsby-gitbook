@@ -26,7 +26,7 @@ We also wanted to serve these tutorials in sub paths of [learn.hasura.io](https:
 
 ## 🔗 Live Demo
 
-Here's a [live demo](https://learn.hasura.io/graphql/react)
+Here's a [live demo](https://gatsbygitbook39319.gatsbyjs.io/)
 
 ## 🚀 Quickstart
 
