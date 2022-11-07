@@ -1,4 +1,4 @@
-# gatsby-gitbook-starter
+# Gatsby with Hasura and Gatsby Cloud
 
 Kick off your project with this starter to create a powerful/flexible docs/tutorial web apps.
 
@@ -33,8 +33,8 @@ Here's a [live demo](https://gatsbygitbook39319.gatsbyjs.io/)
 Get started by running the following commands:
 
 ```
-$ git clone git@github.com:hasura/gatsby-gitbook-starter.git
-$ cd gatsby-gitbook-starter
+$ git clone https://github.com/CodeLikeAGirl29/gatsby-gitbook.git
+$ cd gatsby-gitbook
 $ npm install
 $ npm start
 ```
