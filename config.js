@@ -9,7 +9,7 @@ const config = {
     logo: 'https://res.cloudinary.com/codelikeagirl29/image/upload/v1648607116/devlindsey_anfenl.png',
     logoLink: 'https://lindseyk.dev/',
     title:
-      "<a href='https://lindseyk.dev/'><img class='img-responsive' src='https://res.cloudinary.com/codelikeagirl29/image/upload/v1648607116/devlindsey_anfenl.png' alt='Learn logo' /></a>",
+      "gatsby gitbook",
     githubUrl: 'https://github.com/codelikeagirl29/gatsby-gitbook',
     helpUrl: '',
     tweetText: '',
@@ -52,7 +52,7 @@ const config = {
   },
   siteMetadata: {
     title: 'Gatsby Gitbook | Codelikeagirl29',
-    description: 'Documentation built with mdx. ',
+    description: 'Documentation built with MDX. ',
     ogImage: null,
     docsLocation: 'https://github.com/codelikeagirl29/gatsby-gitbook/tree/master/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
